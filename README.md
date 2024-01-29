@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Shivam Verma
-- 👀 I’m interested in exploring things and self development 
-- 🌱 I’m currently learning Nextjs 
+- Versatile developer with strong foundations in Java for backend, React.js for frontend, and expertise in Data Structures and Algorithms
+- 👀 I’m interested in exploring various technologies and self-development 
+- 🌱 I’m currently learning Spring boot
+- Check out my website : https://portfolio-three-henna-51.vercel.app/
 
 - 📫 Reach out to me devshiva.iit.kgp@gmail.com
 
