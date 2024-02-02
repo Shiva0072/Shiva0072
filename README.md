@@ -3,6 +3,7 @@
 - 👀 I’m interested in exploring various technologies and self-development 
 - 🌱 I’m currently learning Spring boot
 - Check out my website : https://portfolio-three-henna-51.vercel.app/
+- I solve DSA problems sometimes. You can find it here : https://leetcode.com/shivam_0789/
 
 - 📫 Reach out to me devshiva.iit.kgp@gmail.com
 
